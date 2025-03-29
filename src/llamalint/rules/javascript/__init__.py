@@ -1,0 +1,3 @@
+"""
+JavaScript-specific linting rules
+""" 

@@ -1,0 +1,3 @@
+"""
+TypeScript-specific linting rules
+""" 
