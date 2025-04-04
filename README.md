@@ -26,7 +26,7 @@ pip install llamalint
 ### From source
 
 ```bash
-git clone https://github.com/llamasearch/llamalint.git
+git clone https://llamasearch.ai
 cd llamalint
 pip install -e .
 ```
